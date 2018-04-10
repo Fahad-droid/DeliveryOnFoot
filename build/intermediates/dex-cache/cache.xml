@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mandeepkaur/.android/build-cache/24aacc1004d3382cc9d4aa4e776a96f3893b96c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/pre-dexed/debug/classes_4df3a276dc9c4ea6f4379e6b952b25ca09facd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandeepkaur/.android/build-cache/a1164b34db2a38a66db992ccb2d44af3ca98f6f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/pre-dexed/debug/classes_c068ea09e825d933fdfeb70caae5c06d05aba258.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c3a7f749ab77e48650f2f361e1320e549c91df6">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4250683d69cbced20d7fed6f783d9654729140f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandeepkaur/.android/build-cache/ca709f5e2f1cfee275d72eee145e920b6f782346/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4decf26d94403923b7a3362a9ec5c96af29647f9">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/pre-dexed/debug/classes_36efbca3547cb6e3fcf7214ff3f12cb7b39fcb5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_84f85b8d569c31ece7d3095c5b1929ebba4ed104/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandeepkaur/.android/build-cache/73e0f081188344f5661579f87096306e2377d6f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e9db26c95288c1954e7de86d9e94e1259fb608b">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/pre-dexed/debug/classes_5614553525600ab2da3d107971dd8a5b9a93c272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandeepkaur/.android/build-cache/e2e253f12793671759c2dbe1e8d943728669f93b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/mandeepkaur/Downloads/dof/app/build/intermediates/pre-dexed/debug/classes_530fb9d45bb29b41a296860151cb8bcdd66a13f8.jar" />
+    </item>
+
+</items>
